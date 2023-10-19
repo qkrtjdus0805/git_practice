@@ -1,0 +1,12 @@
+$git status
+
+$nano .gitignore
+$ git add .
+$ git commit -m "메시지"  
+$ git push origin master 
+$ git remote 
+$ git push origin master 
+
+ignore all .a files
+*.a
+!lib.a
